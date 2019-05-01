@@ -1,0 +1,40 @@
+MainThread CRITICAL 202行: - 28 12:44
+	 330890 : Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="main"]/div[1]/div[1]/div/form/div[1]/div/div/div/div[2]/div/button[0]"}
+  (Session info: chrome=73.0.3683.103)
+  (Driver info: chromedriver=70.0.3538.97 (d035916fe243477005bc95fe2a5778b8f20b6ae1),platform=Windows NT 10.0.17134 x86_64)
+
+MainThread CRITICAL 202行: - 28 12:44
+	 330891 : Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="main"]/div[1]/div[1]/div/form/div[1]/div/div/div/div[2]/div/button[0]"}
+  (Session info: chrome=73.0.3683.103)
+  (Driver info: chromedriver=70.0.3538.97 (d035916fe243477005bc95fe2a5778b8f20b6ae1),platform=Windows NT 10.0.17134 x86_64)
+
+MainThread CRITICAL 202行: - 28 12:44
+	 330892 : Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="main"]/div[1]/div[1]/div/form/div[1]/div/div/div/div[2]/div/button[0]"}
+  (Session info: chrome=73.0.3683.103)
+  (Driver info: chromedriver=70.0.3538.97 (d035916fe243477005bc95fe2a5778b8f20b6ae1),platform=Windows NT 10.0.17134 x86_64)
+
+MainThread CRITICAL 202行: - 28 12:44
+	 330893 : Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="main"]/div[1]/div[1]/div/form/div[1]/div/div/div/div[2]/div/button[0]"}
+  (Session info: chrome=73.0.3683.103)
+  (Driver info: chromedriver=70.0.3538.97 (d035916fe243477005bc95fe2a5778b8f20b6ae1),platform=Windows NT 10.0.17134 x86_64)
+
+MainThread CRITICAL 202行: - 28 12:44
+	 330894 : Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="main"]/div[1]/div[1]/div/form/div[1]/div/div/div/div[2]/div/button[0]"}
+  (Session info: chrome=73.0.3683.103)
+  (Driver info: chromedriver=70.0.3538.97 (d035916fe243477005bc95fe2a5778b8f20b6ae1),platform=Windows NT 10.0.17134 x86_64)
+
+MainThread CRITICAL 202行: - 28 20:51
+	 335939 : Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="main"]/div[1]/div[1]/div/form/div[1]/div/div/div/div[1]/p/span[1]/span[1]"}
+  (Session info: chrome=73.0.3683.103)
+  (Driver info: chromedriver=70.0.3538.97 (d035916fe243477005bc95fe2a5778b8f20b6ae1),platform=Windows NT 10.0.17134 x86_64)
+
+MainThread CRITICAL 202行: - 28 21:47
+	 304436 : Message: timeout
+  (Session info: chrome=73.0.3683.103)
+  (Driver info: chromedriver=70.0.3538.97 (d035916fe243477005bc95fe2a5778b8f20b6ae1),platform=Windows NT 10.0.17134 x86_64)
+
+MainThread CRITICAL 202行: - 28 21:52
+	 304437 : Message: timeout
+  (Session info: chrome=73.0.3683.103)
+  (Driver info: chromedriver=70.0.3538.97 (d035916fe243477005bc95fe2a5778b8f20b6ae1),platform=Windows NT 10.0.17134 x86_64)
+

@@ -1,0 +1,60 @@
+<!doctype html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <title>关于度娘插件</title>
+    <style>
+		body {
+			width: 200px;
+			overflow-x: hidden;
+			background-color: #EEF3F0;
+			font-family: "Microsoft YaHei";
+			font-size: 12px;
+			padding: 10px;
+		}
+		
+		hr {
+		  margin: 40px 0 10px 0;
+		}
+		
+		a {
+		  color: #22C3AA;
+		}
+		
+		a {
+		  background-color: #DB6968;
+		  color: #FFF;
+		  font-size: 15px;
+		  font-weight: bold;
+		  padding: 8px 16px;
+		  border-radius: 20px;
+		  text-decoration: none;
+		  display: block;
+		  text-align: center;
+		}
+		
+		a:hover {
+		  background-color: #BB5A59;
+		}
+		
+		a.enabled {
+		  background-color: #22C3AA;
+		}
+		
+		a.enabled:hover {
+		  background-color: #157A6B;
+		}
+    </style>
+	<script type="text/javascript" src="popup.js"></script>
+  </head>
+  <body>
+	<p><a href="#" id="enableBtn"><span id="enableVal">未</span>启用</a></p>
+	
+	<hr />
+	<p><a href="#" id="selectBtn"><span id="enableVal">??</span>url</a></p>
+	<hr />
+	<h1 id="s122" >使用说明:</h1>
+	<p>1.选中文本 </br>2.在改文本内容上右键 </br>3.等待几秒右边即出现一个窗口 </br>4.关闭改窗口直接右键 </br>5.一键复制最多支持38个字符</p>
+  </body>
+</html>
+

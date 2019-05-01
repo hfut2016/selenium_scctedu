@@ -1,0 +1,18 @@
+2019/05/01 13:19:53 - auto - INFO-E:/wamp/Demo/question_search/log.py  116行: -  : 自动登陆共0次
+2019/05/01 13:19:57 - auto - INFO-E:/wamp/Demo/question_search/log.py  116行: -  : 自动登陆共0次
+2019/05/01 13:20:01 - auto - INFO-E:/wamp/Demo/question_search/log.py  116行: -  : 自动登陆共0次
+2019/05/01 13:20:05 - auto - INFO-E:/wamp/Demo/question_search/log.py  116行: -  : 自动登陆共0次
+2019/05/01 13:20:08 - auto - INFO-E:/wamp/Demo/question_search/log.py  116行: -  : 自动登陆共0次
+2019/05/01 13:20:09 - auto - WARNING-E:/wamp/Demo/question_search/log.py  106行: - Message: no such window: window was already closed
+  (Session info: chrome=73.0.3683.103)
+  (Driver info: chromedriver=70.0.3538.97 (d035916fe243477005bc95fe2a5778b8f20b6ae1),platform=Windows NT 10.0.17134 x86_64)
+
+2019/05/01 13:20:15 - auto - INFO-E:/wamp/Demo/question_search/log.py  116行: -  : 自动登陆共0次
+2019/05/01 13:20:21 - auto - INFO-E:/wamp/Demo/question_search/log.py  116行: -  : 自动登陆共0次
+2019/05/01 13:20:25 - auto - INFO-E:/wamp/Demo/question_search/log.py  116行: -  : 自动登陆共0次
+2019/05/01 13:20:28 - auto - INFO-E:/wamp/Demo/question_search/log.py  116行: -  : 自动登陆共0次
+2019/05/01 13:20:34 - auto - WARNING-E:/wamp/Demo/question_search/log.py  106行: - Message: chrome not reachable
+  (Session info: chrome=73.0.3683.103)
+  (Driver info: chromedriver=70.0.3538.97 (d035916fe243477005bc95fe2a5778b8f20b6ae1),platform=Windows NT 10.0.17134 x86_64)
+
+2019/05/01 13:20:40 - auto - INFO-E:/wamp/Demo/question_search/log.py  116行: -  : 自动登陆共0次
